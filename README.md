@@ -1,4 +1,4 @@
-The objective was to analyze orders made from a pizza store, using the data via MySQL to answer the followings.
+The objective was to analyze orders made from a pizza store, using the data via MySQL to answer the followings. (DATA: ZIP FILE)
 1. Retrieve the total number of orders placed.
 
 2. Calculate the total revenue generated from pizza sales.
